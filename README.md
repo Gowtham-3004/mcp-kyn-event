@@ -55,7 +55,7 @@ cp .env.example .env
 
 Edit `.env` if you need to customize settings:
 ```env
-API_BASE_URL=https://api.kynhood.com/api
+API_BASE_URL=https://***.****.com/api
 DEFAULT_SKIP=0
 DEFAULT_LIMIT=10
 DEBUG=false
@@ -141,7 +141,7 @@ Show me the latest events from Kynhood
 
 **Get specific event details:**
 ```
-Get details for event 68cd8a949699e3aaa7381ea5
+Get details for event 68cd87381ea5
 ```
 
 **List with pagination:**
